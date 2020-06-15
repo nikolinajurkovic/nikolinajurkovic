@@ -1,0 +1,92 @@
+p {
+    color: cadetblue;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	line-height: 18px;
+	width: 650px;
+	background-color: antiquewhite;
+	padding: 30px;
+	margin: 30px;
+	opacity: 0.8;
+}
+nav {
+	color: black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+	line-height: 20px;
+	width: 650px;
+	background-color: antiquewhite;
+	padding: 30px;
+	margin: 30px;
+	opacity:0.8;
+}
+ol {
+	color: black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	line-height: 16px;
+	width: 650px;
+	background-color: antiquewhite;
+	padding: 30px;
+	margin: 30px;
+	opacity:0.8;
+}
+h1 {
+	font-family: Constatia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: darkblue;
+	font-size: 40px;
+	padding: 30px;
+	margin: 30px;
+}
+h2 {
+	font-family: Constatia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: antiquewhite;
+	font-size: 28px;
+	padding: 30px;
+	margin: 30px;
+}
+h3 {
+	font-family: Constatia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: yellow;
+	font-size: 26px;
+}
+h4 {
+	font-family: Constatia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: yellow;
+	font-size: 26px;
+}
+h5 {
+	font-family: Constatia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: red;
+	font-size: 40px;
+	padding: 30px;
+	margin: 30px;
+}
+h6 {
+	font-family: Constatia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: black;
+	font-size: 30px;
+}
+body {
+	background-color:darkcyan;
+}
+
+img {
+	height: 250px;
+	padding:30px;
+	margin:30px;
+}
+video {
+	padding:30px;
+	margin:30px;
+}
+a {
+	color: black;
+	background-color: antiquewhite;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover {
+	background-color: darkgrey;
+}
